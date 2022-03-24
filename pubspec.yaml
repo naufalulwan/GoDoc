@@ -63,8 +63,8 @@ flutter:
   #   - images/a_dot_ham.jpeg
     - assets/media/images/background/splash-screen-bg.jpg
     - assets/media/images/logo/logo.png
-    - assets/media/images/characters/Character (5) 1.png
-    - assets/media/images/characters/Character (6) 1.png
+    - assets/media/images/characters/picture_register.png
+    - assets/media/images/characters/picture_login.png
     - assets/media/images/icon/lock-icon.png
     - assets/media/images/icon/user-icon.png
     - assets/media/images/icon/bell.png
